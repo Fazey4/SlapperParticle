@@ -7,6 +7,7 @@ use pocketmine\world\particle\{DustParticle, CriticalParticle};
 use pocketmine\math\Vector3;
 use slapper\entities\SlapperHuman;
 
+
 class Effect extends Task{
     
     private int $r = 0;
