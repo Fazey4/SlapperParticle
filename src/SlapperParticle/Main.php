@@ -9,7 +9,7 @@ use pocketmine\math\Vector3;
 use slapper\entities\SlapperHuman;
 
 use SlapperParticle\Main;
-use SlapperParticle\effect;
+use SlapperParticle\Effect;
 
 class Main extends PluginBase{
     
