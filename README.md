@@ -1,2 +1,2 @@
 # SlapperParticle
-SlapperParticle for PocketMine 4.0.0
+SlapperParticle Plugin for PocketMine 4.0.0
