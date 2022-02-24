@@ -1,0 +1,7 @@
+name: SlapperParticle
+version: 1.0
+api: 4.0.0
+main: SlapperParticle\Main
+depend: [Slapper]
+author: Fazey4
+website: https://github.com/Fazey4/SlapperParticle
