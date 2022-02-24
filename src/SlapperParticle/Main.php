@@ -8,6 +8,9 @@ use pocketmine\world\particle\{DustParticle, CriticalParticle};
 use pocketmine\math\Vector3;
 use slapper\entities\SlapperHuman;
 
+use SlapperParticle\Main;
+use SlapperParticle\effect;
+
 class Main extends PluginBase{
     
     public function onEnable(): void{
